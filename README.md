@@ -20,5 +20,5 @@ Composition results where image with a red frame is a failed example.
 
 
 
-(Note that this is a basic implementation of the paper's idea and doesn't contail all the functionalities of the same.)
+(Note that this is a basic implementation of the paper's idea and doesn't contain all the functionalities of the same.)
 
